@@ -1,0 +1,17 @@
+{
+    "nome" : " paraolar " ,
+    "versão" : " 1.0.0 " ,
+    "descrição" : " " ,
+    "main" : " server.js " ,
+    "scripts" : {
+      "test" : " echo \" Erro: nenhum teste especificado \ " && exit 1 " ,
+      "start" : " nodemon server.js "
+    },
+    "autor" : " " ,
+    "licença" : " ISC " ,
+    "dependências" : {
+      "cors" : " ^ 2.8.5 " ,
+      "expresso" : " ^ 4.17.1 " ,
+      "nodemon" : " ^ 2.0.14 "
+    }
+  }
